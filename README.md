@@ -1,1 +1,2 @@
 # TypstCheatsheet
+Math cheatsheet
